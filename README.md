@@ -50,6 +50,6 @@ Mail contact@voblet.com for more info.
 
 For more updates follow us on the below social platforms
 
-<a href=https://www.facebook.com/voblet><img height="42" width="42" src="https://raw.githubusercontent.com/Voblet/bookmarking-for-github/master/images/fb-logo.png"></a>
-
-<a href=https://www.twitter.com/vobletApp><img height="42" width="42" src="https://raw.githubusercontent.com/Voblet/bookmarking-for-github/master/images/twitter-logo.png"></a>
+<a href=https://www.facebook.com/voblet><img style="margin: 0 10;" height="42" width="42" src="https://raw.githubusercontent.com/Voblet/bookmarking-for-github/master/images/fb-logo.png"></a>
+&nbsp;
+<a href=https://www.twitter.com/vobletApp><img style="margin: 0 10;" height="42" width="42" src="https://raw.githubusercontent.com/Voblet/bookmarking-for-github/master/images/twitter-logo.png"></a>
