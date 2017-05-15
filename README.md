@@ -21,18 +21,18 @@ In Github star is the only way to save a repository and you cannot organize with
 
 ### Bookmark your favorite repositories
 
-![alt text](https://raw.githubusercontent.com/Voblet/bookmarking-for-github/master/images/bookmark-repo-zoom.gif "Bookmark Repository")
+![Bookmark your favorite repositories](https://raw.githubusercontent.com/Voblet/bookmarking-for-github/master/images/bookmark-repo-zoom.gif "Bookmark Repository")
 --
 
 
 ### Bookmark from trending list
 
-![alt text](https://raw.githubusercontent.com/Voblet/bookmarking-for-github/master/images/bookmark-trending-list-zoom.gif "Bookmark From trending list")
+![Bookmark from trending list](https://raw.githubusercontent.com/Voblet/bookmarking-for-github/master/images/bookmark-trending-list-zoom.gif "Bookmark From trending list")
 --
 
 ### Everything you save is accessible from github
 
-![alt text](https://raw.githubusercontent.com/Voblet/bookmarking-for-github/master/images/view-bookmarks-zoom.gif "View Bookmarks")
+![Everything you save is accessible from github](https://raw.githubusercontent.com/Voblet/bookmarking-for-github/master/images/view-bookmarks-zoom.gif "View Bookmarks")
 --
 
 
