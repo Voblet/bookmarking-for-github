@@ -16,30 +16,23 @@ Click [here](https://chrome.google.com/webstore/detail/voblet/jgnennkfpahpjpbmbb
 
 In Github star is the only way to save a repository and you cannot organize with custom folders or tags. With voblet you can organize repositories with custom tags. For example, When you find an interesting repository which you want to use for your next side project you can bookmark with 'Side Project' as a tag. You can view your Bookmarks on github just like stars.
 
-
 ## Features :
 
 ### Bookmark your favorite repositories
 
 ![Bookmark your favorite repositories](https://raw.githubusercontent.com/Voblet/bookmarking-for-github/master/images/bookmark-repo-zoom.gif "Bookmark Repository")
---
-
 
 ### Bookmark from trending list
 
 ![Bookmark from trending list](https://raw.githubusercontent.com/Voblet/bookmarking-for-github/master/images/bookmark-trending-list-zoom.gif "Bookmark From trending list")
---
 
 ### Everything you save is accessible from github
 
 ![Everything you save is accessible from github](https://raw.githubusercontent.com/Voblet/bookmarking-for-github/master/images/view-bookmarks-zoom.gif "View Bookmarks")
---
-
 
 ### Access your bookmarks from your phone
 
 <img width="288" id="fb-logo" src="https://raw.githubusercontent.com/Voblet/bookmarking-for-github/master/images/bookmarks-android.png">
---
 
 ## Download
 
