@@ -32,13 +32,13 @@ In Github star is the only way to save a repository and you cannot organize with
 
 ### Access your bookmarks from your phone
 
-<img width="288" id="fb-logo" src="https://raw.githubusercontent.com/Voblet/bookmarking-for-github/master/images/bookmarks-android.png">
+<img width="288" src="https://raw.githubusercontent.com/Voblet/bookmarking-for-github/master/images/bookmarks-android.png">
 
 ## Download
 
-<a href=https://chrome.google.com/webstore/detail/voblet/jgnennkfpahpjpbmbbodaipgoilccmco><img height="53" width="188" id="webstore-logo" src="https://raw.githubusercontent.com/Voblet/bookmarking-for-github/master/images/chrome_web_store_badge.png"></a>
+<a href=https://chrome.google.com/webstore/detail/voblet/jgnennkfpahpjpbmbbodaipgoilccmco><img height="53" width="188" src="https://raw.githubusercontent.com/Voblet/bookmarking-for-github/master/images/chrome_web_store_badge.png"></a>
 
-<a href="https://play.google.com/store/apps/details?id=com.voblet"><img height="73" width="188" id="play-logo" src="https://raw.githubusercontent.com/Voblet/bookmarking-for-github/master/images/google-play-badge.png"></a>
+<a href="https://play.google.com/store/apps/details?id=com.voblet"><img height="73" width="188" src="https://raw.githubusercontent.com/Voblet/bookmarking-for-github/master/images/google-play-badge.png"></a>
 
 >Star this repository so that it reaches more people who follow github trending list, it might be useful for them.
 
@@ -50,6 +50,6 @@ Mail contact@voblet.com for more info.
 
 For more updates follow us on the below social platforms
 
-<a href=https://www.facebook.com/voblet><img height="42" width="42" id="fb-logo" src="https://raw.githubusercontent.com/Voblet/bookmarking-for-github/master/images/fb-logo.png"></a>
+<a href=https://www.facebook.com/voblet><img height="42" width="42" src="https://raw.githubusercontent.com/Voblet/bookmarking-for-github/master/images/fb-logo.png"></a>
 
-<a href=https://www.twitter.com/vobletApp><img height="42" width="42" id="fb-logo" src="https://raw.githubusercontent.com/Voblet/bookmarking-for-github/master/images/twitter-logo.png"></a>
+<a href=https://www.twitter.com/vobletApp><img height="42" width="42" src="https://raw.githubusercontent.com/Voblet/bookmarking-for-github/master/images/twitter-logo.png"></a>
